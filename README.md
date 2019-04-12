@@ -1,6 +1,6 @@
 # Google Authenticator compatible 2-Factor Auth in Java
 
-This project serves as an example of how to build a 2fa support into your website or app. It is the companion code to [this blog entry](http://www.asaph.org/2016/04/google-authenticator-2fa-java.html).
+This project serves as an example of how to build a 2fa support into your website or app. It is the companion code to [this blog entry](https://www.asaph.org/2016/04/google-authenticator-2fa-java.html).
 
 ## Requirements:
 
